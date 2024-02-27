@@ -76,9 +76,9 @@ class Home extends React.Component{
             </div>
       
             <footer>
-              <a href="" style={{ color: 'white', textDecoration: 'none' }}>
+              <p style={{ color: 'white', textDecoration: 'none' }}>
                 Toll Free 1800 200 1234
-              </a>
+              </p>
               <a
                 href="https://www.facebook.com/cripumps"
                 style={{ color: 'white', textDecoration: 'none' }}
